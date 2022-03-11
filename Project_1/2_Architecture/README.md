@@ -23,7 +23,7 @@
 
 ## Low level structural diagram :
 
-![Low level Structural diag](https://user-images.githubusercontent.com/92022676/157916674-0e8fa5be-76e6-4e44-a08d-5f8d5ff3f84e.png)
+![Low level Structural diag](https://user-images.githubusercontent.com/92022676/157916674-0e8fa5be-76e6-4e44-a08d-5f8d5ff3f84e.png).
 
 
 
