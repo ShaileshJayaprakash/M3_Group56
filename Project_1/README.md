@@ -1,6 +1,6 @@
 # Work done by :
  
- Requirements     - Shailesh Jayaprakash  
+ Requirements     - Shailesh Jayaprakash and Savitha P
  
  Architecture     - Narra Sravani and Panakanapalli Guru Teja Reddy  
  
