@@ -49,5 +49,5 @@ An RKS, which is widely used in automobiles, accomplishes the tasks of a traditi
 | HLR_02 | LLR_02 | It must come with thread identifications.|
 | HLR_03 | LLR_01 | The alarm will be set off when the push button is pressed.| 
 | HLR_03 | LLR_02 | The alarm must be turned off using the push button. |
-| HLR_04 | LLR_01 | According to the switch, the led should be turned on.|
+| HLR_04 | LLR_01 | According to the switch, the led should be turned on.|.
 | HLR_04 | LLR_02 | According to the push button, the led should turn on in a clockwise direction.|
